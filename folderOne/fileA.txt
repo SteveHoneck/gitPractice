@@ -5,3 +5,5 @@ I like potatoes
 
 This is the most useful thing I've done all week.
 Thanks for your help, Steve.
+
+second commit on newThing
