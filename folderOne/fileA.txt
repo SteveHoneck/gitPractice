@@ -3,7 +3,7 @@ Here's some more stuff
 DON'T touch this!!!
 I like potatoes
 
-This is the most useful thing I've done all week.
-Thanks for your help, Steve.
+This is the most useful thing I've done all week. -> Added by Dom
+Thanks for your help, Steve.-> Added by Dom
 
-second commit on newThing
+second commit on newThing-> Added by Dom
